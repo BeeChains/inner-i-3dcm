@@ -3,7 +3,7 @@ Inner I Consciousness 3d Model neural network map
 
 # Inner ‘I’ Consciousness Model
 
-![Visualization](results/inner_i_network.html)
+![Visualization](inner-i-consciousness/results/inner_i_network.html)
 
 The **Inner ‘I’ Consciousness Model** is a Python-based interactive neural network framework designed to visualize and explore the concept of **awareness** and its relationship to the **seven states of consciousness**. This project bridges **neuroscience**, **artificial intelligence**, and **philosophy**, creating a compelling 3D interactive map of consciousness.
 
