@@ -72,3 +72,19 @@ Python:
   
 Philosophical Inspiration:
 - Maharishi Mahesh Yogi and other Greats of Vedic philosophy: The seven states of consciousness.
+
+Customizing the Neural Network
+You can modify the layer_sizes list in the script to define the number of neurons in each layer:
+```bash
+layer_sizes = [256, 128, 96, 64, 48, 32, 24, 16]
+```
+
+Outputs
+1. Interactive Visualization:
+
+- Saved as an HTML file in the results folder (```inner_i_network.html```).
+- Open it in your browser to explore the 3D network.
+
+2. Static Plots:
+
+Training accuracy/loss plots are saved as ```results/training_plot.png```.
